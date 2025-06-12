@@ -35,6 +35,7 @@ if (process.argv.length == 2) {
   }
 
   console.log("\n", menu, "\n");
+  
 } else if (process.argv.length == 7) {
   // Has elegido pizza de masa de espelta, con ..., ..., ... y ...
   // Importe total : X€
